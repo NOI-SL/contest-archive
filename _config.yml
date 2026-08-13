@@ -2,10 +2,10 @@ title: NOI Sri Lanka — Contest Archive
 description: >-
   Problem statements from the National Olympiad in Informatics Sri Lanka —
   final rounds, selection and qualifier rounds, and monthly contests.
-url: https://noi-sl.github.io
-# If you move the site to a custom domain (e.g. archive.noi.lk), set baseurl to ""
-# and put the domain in a CNAME file at the repo root.
-baseurl: /contest-archive
+# Served from the custom domain in ./CNAME. If that is ever removed, the site falls
+# back to https://noi-sl.github.io/contest-archive/ and baseurl must become /contest-archive.
+url: https://archive.noi.lk
+baseurl: ""
 
 markdown: kramdown
 kramdown:

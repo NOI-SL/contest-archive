@@ -1,7 +1,7 @@
 # NOI Sri Lanka — Contest Archive
 
 Problem statements from the National Olympiad in Informatics Sri Lanka, published with
-GitHub Pages: **<https://noi-sl.github.io/contest-archive/>**
+GitHub Pages: **<https://archive.noi.lk>**
 
 Covers final rounds, selection/qualifier rounds and monthly contests, 2019–2026. Statements were
 archived from the HackerRank contests they were originally hosted on; the original markdown and
@@ -87,13 +87,17 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Then open <http://localhost:4000/contest-archive/>.
+Then open <http://localhost:4000/>.
 
-## Moving to a custom domain
+## Domain
 
-Set `baseurl: ""` in `_config.yml`, put the domain in a `CNAME` file at the repo root, and point
-the DNS record at GitHub Pages. Every internal link goes through `relative_url`, so nothing else
-needs to change.
+The site is served from `archive.noi.lk`, set by the `CNAME` file at the repo root. DNS is a
+Cloudflare `CNAME` record `archive` -> `noi-sl.github.io`, left **unproxied (grey cloud)** so that
+GitHub can issue and renew the TLS certificate.
+
+To go back to `noi-sl.github.io/contest-archive/`, delete `CNAME` and set
+`baseurl: /contest-archive` in `_config.yml`. Every internal link goes through `relative_url`,
+so nothing else needs to change.
 
 ## Machine-readable index
 
