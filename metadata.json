@@ -1,0 +1,2500 @@
+{
+  "name": "NOI Sri Lanka \u2014 Contest Archive",
+  "generated": "2026-08-13",
+  "source": "HackerRank",
+  "site": "https://noi-sl.github.io/contest-archive/",
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "total_contests": 49,
+  "total_problems": 199,
+  "contests": [
+    {
+      "year": 2019,
+      "category": "qualifier",
+      "round": "Selection Test",
+      "contest_slug": "noi-2019-selection-test",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - Screening Test",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2019-selection-test",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Nirmani's Star Patterns",
+          "slug": "nirmanis-star-patterns",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2019/qualifier/01-nirmanis-star-patterns.md",
+          "url": "/2019/qualifier/01-nirmanis-star-patterns/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2019-selection-test/challenges/nirmanis-star-patterns"
+        },
+        {
+          "index": 2,
+          "name": "King Rawana\u2019s Palace",
+          "slug": "king-rawanas-palace",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2019/qualifier/02-king-rawanas-palace.md",
+          "url": "/2019/qualifier/02-king-rawanas-palace/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2019-selection-test/challenges/king-rawanas-palace"
+        },
+        {
+          "index": 3,
+          "name": "Candy Combinations",
+          "slug": "candy-combinations",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2019/qualifier/03-candy-combinations.md",
+          "url": "/2019/qualifier/03-candy-combinations/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2019-selection-test/challenges/candy-combinations"
+        },
+        {
+          "index": 4,
+          "name": "Game of Life Simulation",
+          "slug": "game-of-life-simulation",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2019/qualifier/04-game-of-life-simulation.md",
+          "url": "/2019/qualifier/04-game-of-life-simulation/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2019-selection-test/challenges/game-of-life-simulation"
+        },
+        {
+          "index": 5,
+          "name": "Numbers Numbers Everywhere!",
+          "slug": "numbers-numbers-everywhere",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2019/qualifier/05-numbers-numbers-everywhere.md",
+          "url": "/2019/qualifier/05-numbers-numbers-everywhere/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2019-selection-test/challenges/numbers-numbers-everywhere"
+        },
+        {
+          "index": 6,
+          "name": "A Mouse in a Maze",
+          "slug": "a-mouse-in-a-maze",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2019/qualifier/06-a-mouse-in-a-maze.md",
+          "url": "/2019/qualifier/06-a-mouse-in-a-maze/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2019-selection-test/challenges/a-mouse-in-a-maze"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "category": "finals",
+      "round": "Final Round \u2014 Day 1",
+      "contest_slug": "noi-2019-day-1",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - Day 1",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2019-day-1",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Sorting Stones",
+          "slug": "sorting-stones",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2019/finals/day-1/01-sorting-stones.md",
+          "url": "/2019/finals/day-1/01-sorting-stones/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2019-day-1/challenges/sorting-stones"
+        },
+        {
+          "index": 2,
+          "name": "Mouse in the Exploding Maze ",
+          "slug": "mouse-in-the-exploding-maze",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2019/finals/day-1/02-mouse-in-the-exploding-maze.md",
+          "url": "/2019/finals/day-1/02-mouse-in-the-exploding-maze/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2019-day-1/challenges/mouse-in-the-exploding-maze"
+        },
+        {
+          "index": 3,
+          "name": "Eat Your Peanuts",
+          "slug": "eat-your-peanuts",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2019/finals/day-1/03-eat-your-peanuts.md",
+          "url": "/2019/finals/day-1/03-eat-your-peanuts/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2019-day-1/challenges/eat-your-peanuts"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "category": "finals",
+      "round": "Final Round \u2014 Day 2",
+      "contest_slug": "noi-2019-day-2",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - Day 2",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2019-day-2",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Connecting Islands",
+          "slug": "connecting-islands",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2019/finals/day-2/01-connecting-islands.md",
+          "url": "/2019/finals/day-2/01-connecting-islands/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2019-day-2/challenges/connecting-islands"
+        },
+        {
+          "index": 2,
+          "name": "Binary Code",
+          "slug": "binary-code",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2019/finals/day-2/02-binary-code.md",
+          "url": "/2019/finals/day-2/02-binary-code/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2019-day-2/challenges/binary-code"
+        },
+        {
+          "index": 3,
+          "name": "Paths with Cards",
+          "slug": "paths-with-cards",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2019/finals/day-2/03-paths-with-cards.md",
+          "url": "/2019/finals/day-2/03-paths-with-cards/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2019-day-2/challenges/paths-with-cards"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "category": "qualifier",
+      "round": "Selection Test",
+      "contest_slug": "noi-2020-selection-test",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - Screening Test 2020",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-selection-test",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Tsunami Alert",
+          "slug": "tsunami-alert",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/qualifier/01-tsunami-alert.md",
+          "url": "/2020/qualifier/01-tsunami-alert/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-selection-test/challenges/tsunami-alert"
+        },
+        {
+          "index": 2,
+          "name": "Love in times of Corona",
+          "slug": "love-in-times-of-corona",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/qualifier/02-love-in-times-of-corona.md",
+          "url": "/2020/qualifier/02-love-in-times-of-corona/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-selection-test/challenges/love-in-times-of-corona"
+        },
+        {
+          "index": 3,
+          "name": "Secret Palindrome",
+          "slug": "palindrome-115",
+          "max_score": 100,
+          "difficulty": "Easy",
+          "file": "_problems/2020/qualifier/03-palindrome-115.md",
+          "url": "/2020/qualifier/03-palindrome-115/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-selection-test/challenges/palindrome-115"
+        },
+        {
+          "index": 4,
+          "name": "Number Passing",
+          "slug": "number-passing",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/qualifier/04-number-passing.md",
+          "url": "/2020/qualifier/04-number-passing/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-selection-test/challenges/number-passing"
+        },
+        {
+          "index": 5,
+          "name": "COVID-19 and Cards 1",
+          "slug": "covid-19-and-cards-1",
+          "max_score": 100,
+          "difficulty": "Hard",
+          "file": "_problems/2020/qualifier/05-covid-19-and-cards-1.md",
+          "url": "/2020/qualifier/05-covid-19-and-cards-1/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-selection-test/challenges/covid-19-and-cards-1"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "category": "monthly",
+      "round": "February 2020",
+      "contest_slug": "noi-2020-feb",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - February 2020",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-feb",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Yazdaan's Matrix Rotation",
+          "slug": "yazdaan-matrix-rotation",
+          "max_score": 100,
+          "difficulty": "Easy",
+          "file": "_problems/2020/monthly/02-february/01-yazdaan-matrix-rotation.md",
+          "url": "/2020/monthly/02-february/01-yazdaan-matrix-rotation/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-feb/challenges/yazdaan-matrix-rotation"
+        },
+        {
+          "index": 2,
+          "name": "Mr. Borris\u2019s Shopping Complex",
+          "slug": "borris-shopping-complex",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/monthly/02-february/02-borris-shopping-complex.md",
+          "url": "/2020/monthly/02-february/02-borris-shopping-complex/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-feb/challenges/borris-shopping-complex"
+        },
+        {
+          "index": 3,
+          "name": "King Siripala\u2019s Forts",
+          "slug": "king-siripalas-forts",
+          "max_score": 100,
+          "difficulty": "Hard",
+          "file": "_problems/2020/monthly/02-february/03-king-siripalas-forts.md",
+          "url": "/2020/monthly/02-february/03-king-siripalas-forts/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-feb/challenges/king-siripalas-forts"
+        },
+        {
+          "index": 4,
+          "name": "Full Moon Day",
+          "slug": "full-moon-day",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/monthly/02-february/04-full-moon-day.md",
+          "url": "/2020/monthly/02-february/04-full-moon-day/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-feb/challenges/full-moon-day"
+        },
+        {
+          "index": 5,
+          "name": "Siri Land's Presidential Election",
+          "slug": "siri-land-presidential-election",
+          "max_score": 0,
+          "difficulty": "Medium",
+          "file": "_problems/2020/monthly/02-february/05-siri-land-presidential-election.md",
+          "url": "/2020/monthly/02-february/05-siri-land-presidential-election/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-feb/challenges/siri-land-presidential-election"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "category": "monthly",
+      "round": "March 2020",
+      "contest_slug": "noi-2020-mar",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - March 2020",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-mar",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Multithreading",
+          "slug": "multithreading",
+          "max_score": 100,
+          "difficulty": "Easy",
+          "file": "_problems/2020/monthly/03-march/01-multithreading.md",
+          "url": "/2020/monthly/03-march/01-multithreading/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-mar/challenges/multithreading"
+        },
+        {
+          "index": 2,
+          "name": "Subsets Sum",
+          "slug": "noi-subset-sum",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/monthly/03-march/02-noi-subset-sum.md",
+          "url": "/2020/monthly/03-march/02-noi-subset-sum/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-mar/challenges/noi-subset-sum"
+        },
+        {
+          "index": 3,
+          "name": "The Epidemic",
+          "slug": "the-epidemic",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/monthly/03-march/03-the-epidemic.md",
+          "url": "/2020/monthly/03-march/03-the-epidemic/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-mar/challenges/the-epidemic"
+        },
+        {
+          "index": 4,
+          "name": "Segment Processor",
+          "slug": "segment-processor",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/monthly/03-march/04-segment-processor.md",
+          "url": "/2020/monthly/03-march/04-segment-processor/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-mar/challenges/segment-processor"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "category": "monthly",
+      "round": "April 2020",
+      "contest_slug": "noi-2020-apr",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - April 2020",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-apr",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Sigma Arrays",
+          "slug": "sigma-arrays",
+          "max_score": 100,
+          "difficulty": "Easy",
+          "file": "_problems/2020/monthly/04-april/01-sigma-arrays.md",
+          "url": "/2020/monthly/04-april/01-sigma-arrays/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-apr/challenges/sigma-arrays"
+        },
+        {
+          "index": 2,
+          "name": "Save More Water",
+          "slug": "save-more-water",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/monthly/04-april/02-save-more-water.md",
+          "url": "/2020/monthly/04-april/02-save-more-water/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-apr/challenges/save-more-water"
+        },
+        {
+          "index": 3,
+          "name": "Bat Virus",
+          "slug": "bat-virus",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/monthly/04-april/03-bat-virus.md",
+          "url": "/2020/monthly/04-april/03-bat-virus/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-apr/challenges/bat-virus"
+        },
+        {
+          "index": 4,
+          "name": "Song Thief",
+          "slug": "song-thief",
+          "max_score": 100,
+          "difficulty": "Hard",
+          "file": "_problems/2020/monthly/04-april/04-song-thief.md",
+          "url": "/2020/monthly/04-april/04-song-thief/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-apr/challenges/song-thief"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "category": "monthly",
+      "round": "May 2020",
+      "contest_slug": "noi-2020-may",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - May 2020",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-may",
+      "problems": [
+        {
+          "index": 1,
+          "name": "The XORcist",
+          "slug": "the-xorcist",
+          "max_score": 100,
+          "difficulty": "Hard",
+          "file": "_problems/2020/monthly/05-may/01-the-xorcist.md",
+          "url": "/2020/monthly/05-may/01-the-xorcist/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-may/challenges/the-xorcist"
+        },
+        {
+          "index": 2,
+          "name": "Cross Count",
+          "slug": "cross-count",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/monthly/05-may/02-cross-count.md",
+          "url": "/2020/monthly/05-may/02-cross-count/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-may/challenges/cross-count"
+        },
+        {
+          "index": 3,
+          "name": "Largest Polygon",
+          "slug": "largest-polygon",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/monthly/05-may/03-largest-polygon.md",
+          "url": "/2020/monthly/05-may/03-largest-polygon/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-may/challenges/largest-polygon"
+        },
+        {
+          "index": 4,
+          "name": "Study Groups for IOI",
+          "slug": "study-groups-for-ioi",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/monthly/05-may/04-study-groups-for-ioi.md",
+          "url": "/2020/monthly/05-may/04-study-groups-for-ioi/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-may/challenges/study-groups-for-ioi"
+        },
+        {
+          "index": 5,
+          "name": "Cross Count 2",
+          "slug": "cross-count-2",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/monthly/05-may/05-cross-count-2.md",
+          "url": "/2020/monthly/05-may/05-cross-count-2/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-may/challenges/cross-count-2"
+        },
+        {
+          "index": 6,
+          "name": "Dahara Croft",
+          "slug": "dahara-croft",
+          "max_score": 100,
+          "difficulty": "Easy",
+          "file": "_problems/2020/monthly/05-may/06-dahara-croft.md",
+          "url": "/2020/monthly/05-may/06-dahara-croft/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-may/challenges/dahara-croft"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "category": "monthly",
+      "round": "June 2020",
+      "contest_slug": "noi-2020-jun",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - June 2020",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-jun",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Make It Same",
+          "slug": "make-it-same-1-1",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/monthly/06-june/01-make-it-same-1-1.md",
+          "url": "/2020/monthly/06-june/01-make-it-same-1-1/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-jun/challenges/make-it-same-1-1"
+        },
+        {
+          "index": 2,
+          "name": "New Facebuk",
+          "slug": "new-facebuk",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/monthly/06-june/02-new-facebuk.md",
+          "url": "/2020/monthly/06-june/02-new-facebuk/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-jun/challenges/new-facebuk"
+        },
+        {
+          "index": 3,
+          "name": "Shane and Vindya\u2019s Love",
+          "slug": "shane-and-vindyas-love",
+          "max_score": 0,
+          "difficulty": "Medium",
+          "file": "_problems/2020/monthly/06-june/03-shane-and-vindyas-love.md",
+          "url": "/2020/monthly/06-june/03-shane-and-vindyas-love/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-jun/challenges/shane-and-vindyas-love"
+        },
+        {
+          "index": 4,
+          "name": "Special Pairs.",
+          "slug": "special-pairs-2",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/monthly/06-june/04-special-pairs-2.md",
+          "url": "/2020/monthly/06-june/04-special-pairs-2/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-jun/challenges/special-pairs-2"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "category": "monthly",
+      "round": "July 2020",
+      "contest_slug": "noi-2020-jul",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - July 2020",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-jul",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Delete the Binary String",
+          "slug": "delete-the-binary-string",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/monthly/07-july/01-delete-the-binary-string.md",
+          "url": "/2020/monthly/07-july/01-delete-the-binary-string/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-jul/challenges/delete-the-binary-string"
+        },
+        {
+          "index": 2,
+          "name": "Prisoners and Enemies",
+          "slug": "prisoners-and-enemies",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/monthly/07-july/02-prisoners-and-enemies.md",
+          "url": "/2020/monthly/07-july/02-prisoners-and-enemies/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-jul/challenges/prisoners-and-enemies"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "category": "monthly",
+      "round": "December 2020",
+      "contest_slug": "noi-2020-dec",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - December 2020",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-dec",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Adjacent Strings",
+          "slug": "adjacent-strings",
+          "max_score": 100,
+          "difficulty": "Easy",
+          "file": "_problems/2020/monthly/12-december/01-adjacent-strings.md",
+          "url": "/2020/monthly/12-december/01-adjacent-strings/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-dec/challenges/adjacent-strings"
+        },
+        {
+          "index": 2,
+          "name": "Super Spell",
+          "slug": "super-spell",
+          "max_score": 100,
+          "difficulty": "Easy",
+          "file": "_problems/2020/monthly/12-december/02-super-spell.md",
+          "url": "/2020/monthly/12-december/02-super-spell/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-dec/challenges/super-spell"
+        },
+        {
+          "index": 3,
+          "name": "Help the Chemist",
+          "slug": "help-the-chemist",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/monthly/12-december/03-help-the-chemist.md",
+          "url": "/2020/monthly/12-december/03-help-the-chemist/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-dec/challenges/help-the-chemist"
+        },
+        {
+          "index": 4,
+          "name": "Turing Baths",
+          "slug": "turing-baths",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/monthly/12-december/04-turing-baths.md",
+          "url": "/2020/monthly/12-december/04-turing-baths/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-dec/challenges/turing-baths"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "category": "finals",
+      "round": "Final Round \u2014 Day 1",
+      "contest_slug": "noi-2020-day-1",
+      "contest_name": "National Olympiad in Informatics Sri Lanka 2020 - Day 1",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-day-1",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Wormholes",
+          "slug": "wormholes",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/finals/day-1/01-wormholes.md",
+          "url": "/2020/finals/day-1/01-wormholes/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-day-1/challenges/wormholes"
+        },
+        {
+          "index": 2,
+          "name": "Teleporting Bridges",
+          "slug": "teleporting-bridges",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/finals/day-1/02-teleporting-bridges.md",
+          "url": "/2020/finals/day-1/02-teleporting-bridges/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-day-1/challenges/teleporting-bridges"
+        },
+        {
+          "index": 3,
+          "name": "Suvin's Game of Cards",
+          "slug": "suvins-game-of-cards",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/finals/day-1/03-suvins-game-of-cards.md",
+          "url": "/2020/finals/day-1/03-suvins-game-of-cards/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-day-1/challenges/suvins-game-of-cards"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "category": "finals",
+      "round": "Final Round \u2014 Day 2",
+      "contest_slug": "noi-2020-day-2",
+      "contest_name": "National Olympiad in Informatics Sri Lanka 2020 - Day 2",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-day-2",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Asteroid Belt",
+          "slug": "asteroid-belt",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/finals/day-2/01-asteroid-belt.md",
+          "url": "/2020/finals/day-2/01-asteroid-belt/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-day-2/challenges/asteroid-belt"
+        },
+        {
+          "index": 2,
+          "name": "Beskar Armor",
+          "slug": "besker-armor",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/finals/day-2/02-besker-armor.md",
+          "url": "/2020/finals/day-2/02-besker-armor/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-day-2/challenges/besker-armor"
+        },
+        {
+          "index": 3,
+          "name": "Find the Worlds",
+          "slug": "find-the-worlds",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2020/finals/day-2/03-find-the-worlds.md",
+          "url": "/2020/finals/day-2/03-find-the-worlds/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2020-day-2/challenges/find-the-worlds"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "category": "qualifier",
+      "round": "Selection Test",
+      "contest_slug": "noi-2021-selection-test",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - Screening Test 2021",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-selection-test",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Maximum Power Battery Array",
+          "slug": "maximum-power-2-1",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/qualifier/01-maximum-power-2-1.md",
+          "url": "/2021/qualifier/01-maximum-power-2-1/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-selection-test/challenges/maximum-power-2-1"
+        },
+        {
+          "index": 2,
+          "name": "Building the artifact",
+          "slug": "building-the-artifact",
+          "max_score": 100,
+          "difficulty": "Easy",
+          "file": "_problems/2021/qualifier/02-building-the-artifact.md",
+          "url": "/2021/qualifier/02-building-the-artifact/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-selection-test/challenges/building-the-artifact"
+        },
+        {
+          "index": 3,
+          "name": "End Game 2",
+          "slug": "end-game-2",
+          "max_score": 100,
+          "difficulty": "Hard",
+          "file": "_problems/2021/qualifier/03-end-game-2.md",
+          "url": "/2021/qualifier/03-end-game-2/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-selection-test/challenges/end-game-2"
+        },
+        {
+          "index": 4,
+          "name": "Doctor Strange\u2019s Student",
+          "slug": "doctor-stranges-student",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/qualifier/04-doctor-stranges-student.md",
+          "url": "/2021/qualifier/04-doctor-stranges-student/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-selection-test/challenges/doctor-stranges-student"
+        },
+        {
+          "index": 5,
+          "name": "God's Money",
+          "slug": "gods-money",
+          "max_score": 100,
+          "difficulty": "Easy",
+          "file": "_problems/2021/qualifier/05-gods-money.md",
+          "url": "/2021/qualifier/05-gods-money/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-selection-test/challenges/gods-money"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "category": "monthly",
+      "round": "January 2021",
+      "contest_slug": "noi-2021-jan",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - January 2021",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-jan",
+      "problems": [
+        {
+          "index": 1,
+          "name": "NOI Game",
+          "slug": "noi-game",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/monthly/01-january/01-noi-game.md",
+          "url": "/2021/monthly/01-january/01-noi-game/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-jan/challenges/noi-game"
+        },
+        {
+          "index": 2,
+          "name": "Transforming Bowsons",
+          "slug": "transforming-bowsons",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/monthly/01-january/02-transforming-bowsons.md",
+          "url": "/2021/monthly/01-january/02-transforming-bowsons/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-jan/challenges/transforming-bowsons"
+        },
+        {
+          "index": 3,
+          "name": "Sam\u2019s Encryption",
+          "slug": "sams-encryption",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/monthly/01-january/03-sams-encryption.md",
+          "url": "/2021/monthly/01-january/03-sams-encryption/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-jan/challenges/sams-encryption"
+        },
+        {
+          "index": 4,
+          "name": "Palindromic Substring Discovery",
+          "slug": "palindromic-substring-2-3",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/monthly/01-january/04-palindromic-substring-2-3.md",
+          "url": "/2021/monthly/01-january/04-palindromic-substring-2-3/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-jan/challenges/palindromic-substring-2-3"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "category": "monthly",
+      "round": "February 2021",
+      "contest_slug": "noi-2021-feb",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - February 2021",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-feb",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Lakshith's Valentine",
+          "slug": "lakshiths-valentine",
+          "max_score": 100,
+          "difficulty": "Easy",
+          "file": "_problems/2021/monthly/02-february/01-lakshiths-valentine.md",
+          "url": "/2021/monthly/02-february/01-lakshiths-valentine/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-feb/challenges/lakshiths-valentine"
+        },
+        {
+          "index": 2,
+          "name": "Dilshan's Juice Bar",
+          "slug": "dilshans-juice-bar",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/monthly/02-february/02-dilshans-juice-bar.md",
+          "url": "/2021/monthly/02-february/02-dilshans-juice-bar/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-feb/challenges/dilshans-juice-bar"
+        },
+        {
+          "index": 3,
+          "name": "Dilshan's Juice Bar's Menu",
+          "slug": "dilshans-juice-bars-menu",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/monthly/02-february/03-dilshans-juice-bars-menu.md",
+          "url": "/2021/monthly/02-february/03-dilshans-juice-bars-menu/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-feb/challenges/dilshans-juice-bars-menu"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "category": "monthly",
+      "round": "March 2021",
+      "contest_slug": "noi-2021-mar",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - March 2021",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-mar",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Win the Quiz",
+          "slug": "win-the-quiz",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/monthly/03-march/01-win-the-quiz.md",
+          "url": "/2021/monthly/03-march/01-win-the-quiz/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-mar/challenges/win-the-quiz"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "category": "monthly",
+      "round": "April 2021",
+      "contest_slug": "noi-2021-apr",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - April 2021",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-apr",
+      "problems": [
+        {
+          "index": 1,
+          "name": "COVID-21 Variant",
+          "slug": "covid-21-variant",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/monthly/04-april/01-covid-21-variant.md",
+          "url": "/2021/monthly/04-april/01-covid-21-variant/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-apr/challenges/covid-21-variant"
+        },
+        {
+          "index": 2,
+          "name": "Gadol",
+          "slug": "gadol",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/monthly/04-april/02-gadol.md",
+          "url": "/2021/monthly/04-april/02-gadol/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-apr/challenges/gadol"
+        },
+        {
+          "index": 3,
+          "name": "Minimal Cost ",
+          "slug": "minimal-cost-1",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/monthly/04-april/03-minimal-cost-1.md",
+          "url": "/2021/monthly/04-april/03-minimal-cost-1/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-apr/challenges/minimal-cost-1"
+        },
+        {
+          "index": 4,
+          "name": "Knuckles Range",
+          "slug": "knuckles-range",
+          "max_score": 100,
+          "difficulty": "Hard",
+          "file": "_problems/2021/monthly/04-april/04-knuckles-range.md",
+          "url": "/2021/monthly/04-april/04-knuckles-range/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-apr/challenges/knuckles-range"
+        },
+        {
+          "index": 5,
+          "name": "Quarantine-centers",
+          "slug": "quarantine-centers",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/monthly/04-april/05-quarantine-centers.md",
+          "url": "/2021/monthly/04-april/05-quarantine-centers/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-apr/challenges/quarantine-centers"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "category": "monthly",
+      "round": "November 2021",
+      "contest_slug": "noi-2021-nov",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - November 2021",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-nov",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Warzone",
+          "slug": "rx-w1-g3-m1",
+          "max_score": 100,
+          "difficulty": "Easy",
+          "file": "_problems/2021/monthly/11-november/01-rx-w1-g3-m1.md",
+          "url": "/2021/monthly/11-november/01-rx-w1-g3-m1/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-nov/challenges/rx-w1-g3-m1"
+        },
+        {
+          "index": 2,
+          "name": "Duchess' Garden",
+          "slug": "rx-w3-g2-m2",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/monthly/11-november/02-rx-w3-g2-m2.md",
+          "url": "/2021/monthly/11-november/02-rx-w3-g2-m2/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-nov/challenges/rx-w3-g2-m2"
+        },
+        {
+          "index": 3,
+          "name": "The Bounteous Knight",
+          "slug": "rx-w3-g3-m1",
+          "max_score": 100,
+          "difficulty": "Easy",
+          "file": "_problems/2021/monthly/11-november/03-rx-w3-g3-m1.md",
+          "url": "/2021/monthly/11-november/03-rx-w3-g3-m1/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-nov/challenges/rx-w3-g3-m1"
+        },
+        {
+          "index": 4,
+          "name": "Housing Scheme",
+          "slug": "rx-w3-g2-m1",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/monthly/11-november/04-rx-w3-g2-m1.md",
+          "url": "/2021/monthly/11-november/04-rx-w3-g2-m1/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-nov/challenges/rx-w3-g2-m1"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "category": "monthly",
+      "round": "December 2021",
+      "contest_slug": "noi-2021-dec",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - December 2021",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-dec",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Deceiving the Maestro",
+          "slug": "rx-w3-g1-m2",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/monthly/12-december/01-rx-w3-g1-m2.md",
+          "url": "/2021/monthly/12-december/01-rx-w3-g1-m2/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-dec/challenges/rx-w3-g1-m2"
+        },
+        {
+          "index": 2,
+          "name": "Dulaj\u2019s Dilemma",
+          "slug": "rx-w2-g1-m2",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/monthly/12-december/02-rx-w2-g1-m2.md",
+          "url": "/2021/monthly/12-december/02-rx-w2-g1-m2/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-dec/challenges/rx-w2-g1-m2"
+        },
+        {
+          "index": 3,
+          "name": "The King\u2019s Court ",
+          "slug": "rx-w1-g3-m2",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/monthly/12-december/03-rx-w1-g3-m2.md",
+          "url": "/2021/monthly/12-december/03-rx-w1-g3-m2/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-dec/challenges/rx-w1-g3-m2"
+        },
+        {
+          "index": 4,
+          "name": "The Dragon Hunt",
+          "slug": "rx-w2-g2-m2",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/monthly/12-december/04-rx-w2-g2-m2.md",
+          "url": "/2021/monthly/12-december/04-rx-w2-g2-m2/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-dec/challenges/rx-w2-g2-m2"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "category": "finals",
+      "round": "Final Round \u2014 Day 1",
+      "contest_slug": "noi-2021-day-1",
+      "contest_name": "National Olympiad in Informatics Sri Lanka 2021 - Day 1",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-day-1",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Mango Plantation",
+          "slug": "mango-plantation",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/finals/day-1/01-mango-plantation.md",
+          "url": "/2021/finals/day-1/01-mango-plantation/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-day-1/challenges/mango-plantation"
+        },
+        {
+          "index": 2,
+          "name": "Motorway",
+          "slug": "motorway",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/finals/day-1/02-motorway.md",
+          "url": "/2021/finals/day-1/02-motorway/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-day-1/challenges/motorway"
+        },
+        {
+          "index": 3,
+          "name": "Overclocking the GPUs - Fixed",
+          "slug": "overclocking-the-gpus-2",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/finals/day-1/03-overclocking-the-gpus-2.md",
+          "url": "/2021/finals/day-1/03-overclocking-the-gpus-2/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-day-1/challenges/overclocking-the-gpus-2"
+        },
+        {
+          "index": 4,
+          "name": "Overclocking the GPUs",
+          "slug": "overclocking-the-gpus",
+          "max_score": 0,
+          "difficulty": "Medium",
+          "file": "_problems/2021/finals/day-1/04-overclocking-the-gpus.md",
+          "url": "/2021/finals/day-1/04-overclocking-the-gpus/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-day-1/challenges/overclocking-the-gpus"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "category": "finals",
+      "round": "Final Round \u2014 Day 2",
+      "contest_slug": "noi-2021-day-2",
+      "contest_name": "National Olympiad in Informatics Sri Lanka 2021 - Day 2",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-day-2",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Best King",
+          "slug": "best-king",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/finals/day-2/01-best-king.md",
+          "url": "/2021/finals/day-2/01-best-king/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-day-2/challenges/best-king"
+        },
+        {
+          "index": 2,
+          "name": "Portal Travel",
+          "slug": "portal-travel",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/finals/day-2/02-portal-travel.md",
+          "url": "/2021/finals/day-2/02-portal-travel/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-day-2/challenges/portal-travel"
+        },
+        {
+          "index": 3,
+          "name": "Knight Rider",
+          "slug": "knight-rider",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2021/finals/day-2/03-knight-rider.md",
+          "url": "/2021/finals/day-2/03-knight-rider/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2021-day-2/challenges/knight-rider"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "category": "qualifier",
+      "round": "Selection Test",
+      "contest_slug": "noi-2022-selection-test",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - Screening Test 2022",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-selection-test",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Just Pens and Pencils",
+          "slug": "just-pens-and-pencils",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/qualifier/01-just-pens-and-pencils.md",
+          "url": "/2022/qualifier/01-just-pens-and-pencils/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-selection-test/challenges/just-pens-and-pencils"
+        },
+        {
+          "index": 2,
+          "name": "Permission to Permute",
+          "slug": "permission-to-permute",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/qualifier/02-permission-to-permute.md",
+          "url": "/2022/qualifier/02-permission-to-permute/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-selection-test/challenges/permission-to-permute"
+        },
+        {
+          "index": 3,
+          "name": "The Brackets",
+          "slug": "the-brackets",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/qualifier/03-the-brackets.md",
+          "url": "/2022/qualifier/03-the-brackets/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-selection-test/challenges/the-brackets"
+        },
+        {
+          "index": 4,
+          "name": "Kill Team Go",
+          "slug": "kill-team-go",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/qualifier/04-kill-team-go.md",
+          "url": "/2022/qualifier/04-kill-team-go/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-selection-test/challenges/kill-team-go"
+        },
+        {
+          "index": 5,
+          "name": "Petrol Queue",
+          "slug": "petrol-queue",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/qualifier/05-petrol-queue.md",
+          "url": "/2022/qualifier/05-petrol-queue/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-selection-test/challenges/petrol-queue"
+        },
+        {
+          "index": 6,
+          "name": "The Perfect Fuel Queue",
+          "slug": "the-perfect-fuel-queue",
+          "max_score": 100,
+          "difficulty": "Hard",
+          "file": "_problems/2022/qualifier/06-the-perfect-fuel-queue.md",
+          "url": "/2022/qualifier/06-the-perfect-fuel-queue/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-selection-test/challenges/the-perfect-fuel-queue"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "category": "monthly",
+      "round": "January 2022",
+      "contest_slug": "noi-2022-jan",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - January 2022",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-jan",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Bat Virus",
+          "slug": "bat-virus",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/monthly/01-january/01-bat-virus.md",
+          "url": "/2022/monthly/01-january/01-bat-virus/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-jan/challenges/bat-virus"
+        },
+        {
+          "index": 2,
+          "name": "Delete the Binary String",
+          "slug": "delete-the-binary-string",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/monthly/01-january/02-delete-the-binary-string.md",
+          "url": "/2022/monthly/01-january/02-delete-the-binary-string/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-jan/challenges/delete-the-binary-string"
+        },
+        {
+          "index": 3,
+          "name": "Help the Chemist",
+          "slug": "help-the-chemist",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/monthly/01-january/03-help-the-chemist.md",
+          "url": "/2022/monthly/01-january/03-help-the-chemist/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-jan/challenges/help-the-chemist"
+        },
+        {
+          "index": 4,
+          "name": "Song Thief",
+          "slug": "song-thief",
+          "max_score": 100,
+          "difficulty": "Hard",
+          "file": "_problems/2022/monthly/01-january/04-song-thief.md",
+          "url": "/2022/monthly/01-january/04-song-thief/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-jan/challenges/song-thief"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "category": "monthly",
+      "round": "February 2022",
+      "contest_slug": "noi-2022-feb",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - February 2022",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-feb",
+      "problems": [
+        {
+          "index": 1,
+          "name": "No Electricity Hour",
+          "slug": "no-electricity-hour",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/monthly/02-february/01-no-electricity-hour.md",
+          "url": "/2022/monthly/02-february/01-no-electricity-hour/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-feb/challenges/no-electricity-hour"
+        },
+        {
+          "index": 2,
+          "name": "Build the Highways",
+          "slug": "build-the-highways",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/monthly/02-february/02-build-the-highways.md",
+          "url": "/2022/monthly/02-february/02-build-the-highways/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-feb/challenges/build-the-highways"
+        },
+        {
+          "index": 3,
+          "name": "Calculate Payment",
+          "slug": "calculate-payment",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/monthly/02-february/03-calculate-payment.md",
+          "url": "/2022/monthly/02-february/03-calculate-payment/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-feb/challenges/calculate-payment"
+        },
+        {
+          "index": 4,
+          "name": "Number Triangles",
+          "slug": "noi-number-triangles",
+          "max_score": 100,
+          "difficulty": "Easy",
+          "file": "_problems/2022/monthly/02-february/04-noi-number-triangles.md",
+          "url": "/2022/monthly/02-february/04-noi-number-triangles/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-feb/challenges/noi-number-triangles"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "category": "monthly",
+      "round": "March 2022",
+      "contest_slug": "noi-2022-mar",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - March 2022",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-mar",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Cut Out For This",
+          "slug": "cut-out-for-this-2",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/monthly/03-march/01-cut-out-for-this-2.md",
+          "url": "/2022/monthly/03-march/01-cut-out-for-this-2/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-mar/challenges/cut-out-for-this-2"
+        },
+        {
+          "index": 2,
+          "name": "Bags O' Money",
+          "slug": "bags-o-money",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/monthly/03-march/02-bags-o-money.md",
+          "url": "/2022/monthly/03-march/02-bags-o-money/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-mar/challenges/bags-o-money"
+        },
+        {
+          "index": 3,
+          "name": "Not So Safe",
+          "slug": "not-so-safe",
+          "max_score": 100,
+          "difficulty": "Hard",
+          "file": "_problems/2022/monthly/03-march/03-not-so-safe.md",
+          "url": "/2022/monthly/03-march/03-not-so-safe/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-mar/challenges/not-so-safe"
+        },
+        {
+          "index": 4,
+          "name": "Mario Maker",
+          "slug": "mario-maker",
+          "max_score": 100,
+          "difficulty": "Hard",
+          "file": "_problems/2022/monthly/03-march/04-mario-maker.md",
+          "url": "/2022/monthly/03-march/04-mario-maker/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-mar/challenges/mario-maker"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "category": "monthly",
+      "round": "April 2022",
+      "contest_slug": "noi-2022-apr",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - April 2022",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-apr",
+      "problems": [
+        {
+          "index": 1,
+          "name": "It's a Blast",
+          "slug": "its-a-blast",
+          "max_score": 100,
+          "difficulty": "Easy",
+          "file": "_problems/2022/monthly/04-april/01-its-a-blast.md",
+          "url": "/2022/monthly/04-april/01-its-a-blast/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-apr/challenges/its-a-blast"
+        },
+        {
+          "index": 2,
+          "name": "Fair and Square",
+          "slug": "fair-and-square-1-1",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/monthly/04-april/02-fair-and-square-1-1.md",
+          "url": "/2022/monthly/04-april/02-fair-and-square-1-1/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-apr/challenges/fair-and-square-1-1"
+        },
+        {
+          "index": 3,
+          "name": "The Tractor",
+          "slug": "the-tractor",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/monthly/04-april/03-the-tractor.md",
+          "url": "/2022/monthly/04-april/03-the-tractor/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-apr/challenges/the-tractor"
+        },
+        {
+          "index": 4,
+          "name": "Simon the Giant",
+          "slug": "simon-the-giant",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/monthly/04-april/04-simon-the-giant.md",
+          "url": "/2022/monthly/04-april/04-simon-the-giant/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-apr/challenges/simon-the-giant"
+        },
+        {
+          "index": 5,
+          "name": "Counting Sentences",
+          "slug": "counting-sentences",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/monthly/04-april/05-counting-sentences.md",
+          "url": "/2022/monthly/04-april/05-counting-sentences/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-apr/challenges/counting-sentences"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "category": "monthly",
+      "round": "May 2022",
+      "contest_slug": "noi-2022-may",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - May 2022",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-may",
+      "problems": [
+        {
+          "index": 1,
+          "name": "2049",
+          "slug": "2049",
+          "max_score": 100,
+          "difficulty": "Easy",
+          "file": "_problems/2022/monthly/05-may/01-2049.md",
+          "url": "/2022/monthly/05-may/01-2049/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-may/challenges/2049"
+        },
+        {
+          "index": 2,
+          "name": "Run, Barry, Run!",
+          "slug": "run-barry-run-2",
+          "max_score": 100,
+          "difficulty": "Easy",
+          "file": "_problems/2022/monthly/05-may/02-run-barry-run-2.md",
+          "url": "/2022/monthly/05-may/02-run-barry-run-2/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-may/challenges/run-barry-run-2"
+        },
+        {
+          "index": 3,
+          "name": "Beautiful Pairs",
+          "slug": "b-p",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/monthly/05-may/03-b-p.md",
+          "url": "/2022/monthly/05-may/03-b-p/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-may/challenges/b-p"
+        },
+        {
+          "index": 4,
+          "name": "Eat Your Peanuts",
+          "slug": "rx-w3-g1-m1",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/monthly/05-may/04-rx-w3-g1-m1.md",
+          "url": "/2022/monthly/05-may/04-rx-w3-g1-m1/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-may/challenges/rx-w3-g1-m1"
+        },
+        {
+          "index": 5,
+          "name": "\ub098\ub97c \ubcf4\uac8c \uc0b6\uc740 \uc9e7\uc544",
+          "slug": "player-456",
+          "max_score": 100,
+          "difficulty": "Hard",
+          "file": "_problems/2022/monthly/05-may/05-player-456.md",
+          "url": "/2022/monthly/05-may/05-player-456/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-may/challenges/player-456"
+        },
+        {
+          "index": 6,
+          "name": "Hopscotch 3",
+          "slug": "hopscotch-3-2",
+          "max_score": 100,
+          "difficulty": "Hard",
+          "file": "_problems/2022/monthly/05-may/06-hopscotch-3-2.md",
+          "url": "/2022/monthly/05-may/06-hopscotch-3-2/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-may/challenges/hopscotch-3-2"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "category": "finals",
+      "round": "Final Round \u2014 Day 1",
+      "contest_slug": "noi-2022-day-1",
+      "contest_name": "National Olympiad in Informatics Sri Lanka 2022 - Day 1",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-day-1",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Prime Game ",
+          "slug": "the-prime-game-1-2",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/finals/day-1/01-the-prime-game-1-2.md",
+          "url": "/2022/finals/day-1/01-the-prime-game-1-2/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-day-1/challenges/the-prime-game-1-2"
+        },
+        {
+          "index": 2,
+          "name": "Two Spindles",
+          "slug": "two-spindles",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/finals/day-1/02-two-spindles.md",
+          "url": "/2022/finals/day-1/02-two-spindles/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-day-1/challenges/two-spindles"
+        },
+        {
+          "index": 3,
+          "name": "Cats and Dogs",
+          "slug": "cats-and-dogs-7",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/finals/day-1/03-cats-and-dogs-7.md",
+          "url": "/2022/finals/day-1/03-cats-and-dogs-7/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-day-1/challenges/cats-and-dogs-7"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "category": "finals",
+      "round": "Final Round \u2014 Day 2",
+      "contest_slug": "noi-2022-day-2",
+      "contest_name": "National Olympiad in Informatics Sri Lanka 2022 - Day 2",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-day-2",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Helani's Card Game",
+          "slug": "helanis-card-game",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/finals/day-2/01-helanis-card-game.md",
+          "url": "/2022/finals/day-2/01-helanis-card-game/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-day-2/challenges/helanis-card-game"
+        },
+        {
+          "index": 2,
+          "name": "Petrol Queues",
+          "slug": "petrol-queues",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/finals/day-2/02-petrol-queues.md",
+          "url": "/2022/finals/day-2/02-petrol-queues/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-day-2/challenges/petrol-queues"
+        },
+        {
+          "index": 3,
+          "name": "Suvin\u2019s Magic Tricks",
+          "slug": "suvins-magic-tricks",
+          "max_score": 0,
+          "difficulty": "Medium",
+          "file": "_problems/2022/finals/day-2/03-suvins-magic-tricks.md",
+          "url": "/2022/finals/day-2/03-suvins-magic-tricks/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-day-2/challenges/suvins-magic-tricks"
+        },
+        {
+          "index": 4,
+          "name": "New Suvin\u2019s Magic Tricks",
+          "slug": "new-suvins-magic-tricks",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2022/finals/day-2/04-new-suvins-magic-tricks.md",
+          "url": "/2022/finals/day-2/04-new-suvins-magic-tricks/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2022-day-2/challenges/new-suvins-magic-tricks"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "category": "qualifier",
+      "round": "Selection Test",
+      "contest_slug": "noi-2023-selection-test",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - Screening Test 2023",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-selection-test",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Top gun ",
+          "slug": "top-gun",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/qualifier/01-top-gun.md",
+          "url": "/2023/qualifier/01-top-gun/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-selection-test/challenges/top-gun"
+        },
+        {
+          "index": 2,
+          "name": "Dungeon Portals",
+          "slug": "dungeon-portals",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/qualifier/02-dungeon-portals.md",
+          "url": "/2023/qualifier/02-dungeon-portals/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-selection-test/challenges/dungeon-portals"
+        },
+        {
+          "index": 3,
+          "name": "Back to the 90's",
+          "slug": "back-to-the-90s",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/qualifier/03-back-to-the-90s.md",
+          "url": "/2023/qualifier/03-back-to-the-90s/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-selection-test/challenges/back-to-the-90s"
+        },
+        {
+          "index": 4,
+          "name": "Magical Eraser",
+          "slug": "magical-eraser",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/qualifier/04-magical-eraser.md",
+          "url": "/2023/qualifier/04-magical-eraser/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-selection-test/challenges/magical-eraser"
+        },
+        {
+          "index": 5,
+          "name": "Sweet Fruits",
+          "slug": "sweet-fruits",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/qualifier/05-sweet-fruits.md",
+          "url": "/2023/qualifier/05-sweet-fruits/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-selection-test/challenges/sweet-fruits"
+        },
+        {
+          "index": 6,
+          "name": "Chairs and Distancing: The Hotel Del Luna Case",
+          "slug": "chairs-and-distancing-the-hotel-del-luna-case",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/qualifier/06-chairs-and-distancing-the-hotel-del-luna-case.md",
+          "url": "/2023/qualifier/06-chairs-and-distancing-the-hotel-del-luna-case/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-selection-test/challenges/chairs-and-distancing-the-hotel-del-luna-case"
+        },
+        {
+          "index": 7,
+          "name": "String decoder ",
+          "slug": "string-decoder-1",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/qualifier/07-string-decoder-1.md",
+          "url": "/2023/qualifier/07-string-decoder-1/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-selection-test/challenges/string-decoder-1"
+        },
+        {
+          "index": 8,
+          "name": "Schoolyard Showdown",
+          "slug": "schoolyard-showdown",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/qualifier/08-schoolyard-showdown.md",
+          "url": "/2023/qualifier/08-schoolyard-showdown/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-selection-test/challenges/schoolyard-showdown"
+        },
+        {
+          "index": 9,
+          "name": "Aimballs",
+          "slug": "aimballs",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/qualifier/09-aimballs.md",
+          "url": "/2023/qualifier/09-aimballs/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-selection-test/challenges/aimballs"
+        },
+        {
+          "index": 10,
+          "name": "Tree query - 3",
+          "slug": "tree-query-3-1",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/qualifier/10-tree-query-3-1.md",
+          "url": "/2023/qualifier/10-tree-query-3-1/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-selection-test/challenges/tree-query-3-1"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "category": "monthly",
+      "round": "January 2023",
+      "contest_slug": "noi-2023-january",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - January 2023",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-january",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Find the Password of the front door ",
+          "slug": "find-the-password-2",
+          "max_score": 100,
+          "difficulty": "Easy",
+          "file": "_problems/2023/monthly/01-january/01-find-the-password-2.md",
+          "url": "/2023/monthly/01-january/01-find-the-password-2/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-january/challenges/find-the-password-2"
+        },
+        {
+          "index": 2,
+          "name": "Hogwarts' Defense Against the Dark Arts",
+          "slug": "hogwarts-3",
+          "max_score": 100,
+          "difficulty": "Easy",
+          "file": "_problems/2023/monthly/01-january/02-hogwarts-3.md",
+          "url": "/2023/monthly/01-january/02-hogwarts-3/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-january/challenges/hogwarts-3"
+        },
+        {
+          "index": 3,
+          "name": "Moving balls",
+          "slug": "moving-balls",
+          "max_score": 100,
+          "difficulty": "Easy",
+          "file": "_problems/2023/monthly/01-january/03-moving-balls.md",
+          "url": "/2023/monthly/01-january/03-moving-balls/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-january/challenges/moving-balls"
+        },
+        {
+          "index": 4,
+          "name": "Old Watch",
+          "slug": "old-watch",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/monthly/01-january/04-old-watch.md",
+          "url": "/2023/monthly/01-january/04-old-watch/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-january/challenges/old-watch"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "category": "monthly",
+      "round": "February 2023",
+      "contest_slug": "noi-2023-feb",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - February 2023",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-feb",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Hide And Seek",
+          "slug": "hide-and-seek-4",
+          "max_score": 100,
+          "difficulty": "Easy",
+          "file": "_problems/2023/monthly/02-february/01-hide-and-seek-4.md",
+          "url": "/2023/monthly/02-february/01-hide-and-seek-4/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-feb/challenges/hide-and-seek-4"
+        },
+        {
+          "index": 2,
+          "name": "JUMANJI - The snake and ladder version",
+          "slug": "jumanji-the-snake-and-ladder-version",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/monthly/02-february/02-jumanji-the-snake-and-ladder-version.md",
+          "url": "/2023/monthly/02-february/02-jumanji-the-snake-and-ladder-version/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-feb/challenges/jumanji-the-snake-and-ladder-version"
+        },
+        {
+          "index": 3,
+          "name": "Help Alina!",
+          "slug": "decode-and-multiply",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/monthly/02-february/03-decode-and-multiply.md",
+          "url": "/2023/monthly/02-february/03-decode-and-multiply/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-feb/challenges/decode-and-multiply"
+        },
+        {
+          "index": 4,
+          "name": "Array query-1",
+          "slug": "arrayquery-1",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/monthly/02-february/04-arrayquery-1.md",
+          "url": "/2023/monthly/02-february/04-arrayquery-1/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-feb/challenges/arrayquery-1"
+        },
+        {
+          "index": 5,
+          "name": "Best Pile",
+          "slug": "best-pile",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/monthly/02-february/05-best-pile.md",
+          "url": "/2023/monthly/02-february/05-best-pile/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-feb/challenges/best-pile"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "category": "monthly",
+      "round": "March 2023",
+      "contest_slug": "noi-2023-mar",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - March 2023",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-mar",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Mario and the Mysterious Bridge",
+          "slug": "mario-and-the-mysterious-bridge",
+          "max_score": 100,
+          "difficulty": "Hard",
+          "file": "_problems/2023/monthly/03-march/01-mario-and-the-mysterious-bridge.md",
+          "url": "/2023/monthly/03-march/01-mario-and-the-mysterious-bridge/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-mar/challenges/mario-and-the-mysterious-bridge"
+        },
+        {
+          "index": 2,
+          "name": "Mission: Impossible \u2013 Dead Reckoning",
+          "slug": "the-pharaohs-fortune-can-you-help-the-king-kufu",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/monthly/03-march/02-the-pharaohs-fortune-can-you-help-the-king-kufu.md",
+          "url": "/2023/monthly/03-march/02-the-pharaohs-fortune-can-you-help-the-king-kufu/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-mar/challenges/the-pharaohs-fortune-can-you-help-the-king-kufu"
+        },
+        {
+          "index": 3,
+          "name": "Planet Cruise",
+          "slug": "planet-cruise",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/monthly/03-march/03-planet-cruise.md",
+          "url": "/2023/monthly/03-march/03-planet-cruise/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-mar/challenges/planet-cruise"
+        },
+        {
+          "index": 4,
+          "name": "I'll buy you anything",
+          "slug": "blah-blah-blah",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/monthly/03-march/04-blah-blah-blah.md",
+          "url": "/2023/monthly/03-march/04-blah-blah-blah/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-mar/challenges/blah-blah-blah"
+        },
+        {
+          "index": 5,
+          "name": "Can you divide that",
+          "slug": "can-you-divide-that",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/monthly/03-march/05-can-you-divide-that.md",
+          "url": "/2023/monthly/03-march/05-can-you-divide-that/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-mar/challenges/can-you-divide-that"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "category": "monthly",
+      "round": "April 2023",
+      "contest_slug": "noi-2023-apr",
+      "contest_name": "National Olympiad in Informatics Sri Lanka - April 2023",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-apr",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Mysterious Alphabet",
+          "slug": "mysterious-alphabet",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/monthly/04-april/01-mysterious-alphabet.md",
+          "url": "/2023/monthly/04-april/01-mysterious-alphabet/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-apr/challenges/mysterious-alphabet"
+        },
+        {
+          "index": 2,
+          "name": "R-01's Forest Expedition",
+          "slug": "r-01s-forest-expedition",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/monthly/04-april/02-r-01s-forest-expedition.md",
+          "url": "/2023/monthly/04-april/02-r-01s-forest-expedition/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-apr/challenges/r-01s-forest-expedition"
+        },
+        {
+          "index": 3,
+          "name": "Magical Event",
+          "slug": "magical-event",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/monthly/04-april/03-magical-event.md",
+          "url": "/2023/monthly/04-april/03-magical-event/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-apr/challenges/magical-event"
+        },
+        {
+          "index": 4,
+          "name": "Re-Assembled",
+          "slug": "re-assembled",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/monthly/04-april/04-re-assembled.md",
+          "url": "/2023/monthly/04-april/04-re-assembled/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-apr/challenges/re-assembled"
+        },
+        {
+          "index": 5,
+          "name": "Overlapping Songs",
+          "slug": "overlapping-songs",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/monthly/04-april/05-overlapping-songs.md",
+          "url": "/2023/monthly/04-april/05-overlapping-songs/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-apr/challenges/overlapping-songs"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "category": "finals",
+      "round": "Final Round \u2014 Day 1",
+      "contest_slug": "noi-2023-day-1",
+      "contest_name": "National Olympiad in Informatics Sri Lanka 2023 - Day 1",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-day-1",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Visit Sri Lanka",
+          "slug": "visit-sri-lanka-1",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/finals/day-1/01-visit-sri-lanka-1.md",
+          "url": "/2023/finals/day-1/01-visit-sri-lanka-1/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-day-1/challenges/visit-sri-lanka-1"
+        },
+        {
+          "index": 2,
+          "name": "String Transformation Cost",
+          "slug": "string-transformation-cost",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/finals/day-1/02-string-transformation-cost.md",
+          "url": "/2023/finals/day-1/02-string-transformation-cost/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-day-1/challenges/string-transformation-cost"
+        },
+        {
+          "index": 3,
+          "name": "Number Transmutation Quest",
+          "slug": "number-transmutation-quest",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/finals/day-1/03-number-transmutation-quest.md",
+          "url": "/2023/finals/day-1/03-number-transmutation-quest/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-day-1/challenges/number-transmutation-quest"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "category": "finals",
+      "round": "Final Round \u2014 Day 2",
+      "contest_slug": "noi-2023-day-2",
+      "contest_name": "National Olympiad in Informatics Sri Lanka 2023 - Day 2",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-day-2",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Journey Through The Grid",
+          "slug": "journey-through-the-grid",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/finals/day-2/01-journey-through-the-grid.md",
+          "url": "/2023/finals/day-2/01-journey-through-the-grid/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-day-2/challenges/journey-through-the-grid"
+        },
+        {
+          "index": 2,
+          "name": "Tree Query - 1",
+          "slug": "tree-query-1-1",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/finals/day-2/02-tree-query-1-1.md",
+          "url": "/2023/finals/day-2/02-tree-query-1-1/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-day-2/challenges/tree-query-1-1"
+        },
+        {
+          "index": 3,
+          "name": "Stilt Fishermen",
+          "slug": "stilt-fishermen",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2023/finals/day-2/03-stilt-fishermen.md",
+          "url": "/2023/finals/day-2/03-stilt-fishermen/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2023-day-2/challenges/stilt-fishermen"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "category": "qualifier",
+      "round": "Qualifier Round",
+      "contest_slug": "noi-2024-qualifier-round",
+      "contest_name": "NOI 2024 Qualifier Round",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-qualifier-round",
+      "problems": [
+        {
+          "index": 1,
+          "name": "reductor",
+          "slug": "reductor",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2024/qualifier/01-reductor.md",
+          "url": "/2024/qualifier/01-reductor/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-qualifier-round/challenges/reductor"
+        },
+        {
+          "index": 2,
+          "name": "Ball queries",
+          "slug": "ball-queries",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2024/qualifier/02-ball-queries.md",
+          "url": "/2024/qualifier/02-ball-queries/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-qualifier-round/challenges/ball-queries"
+        },
+        {
+          "index": 3,
+          "name": "The Candy Shop Conundrum",
+          "slug": "the-candy-shop-conundrum",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2024/qualifier/03-the-candy-shop-conundrum.md",
+          "url": "/2024/qualifier/03-the-candy-shop-conundrum/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-qualifier-round/challenges/the-candy-shop-conundrum"
+        },
+        {
+          "index": 4,
+          "name": "Rook Placement Puzzle",
+          "slug": "rook-placement-puzzle",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2024/qualifier/04-rook-placement-puzzle.md",
+          "url": "/2024/qualifier/04-rook-placement-puzzle/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-qualifier-round/challenges/rook-placement-puzzle"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "category": "monthly",
+      "round": "February 2024",
+      "contest_slug": "noi-2024-feb",
+      "contest_name": "NOI 2024 february monthly contest",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-feb",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Subtle Cheater",
+          "slug": "subtle-cheater",
+          "max_score": 100,
+          "difficulty": "Easy",
+          "file": "_problems/2024/monthly/02-february/01-subtle-cheater.md",
+          "url": "/2024/monthly/02-february/01-subtle-cheater/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-feb/challenges/subtle-cheater"
+        },
+        {
+          "index": 2,
+          "name": "Ranker",
+          "slug": "ranker",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2024/monthly/02-february/02-ranker.md",
+          "url": "/2024/monthly/02-february/02-ranker/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-feb/challenges/ranker"
+        },
+        {
+          "index": 3,
+          "name": "Accident?",
+          "slug": "accident",
+          "max_score": 100,
+          "difficulty": "Hard",
+          "file": "_problems/2024/monthly/02-february/03-accident.md",
+          "url": "/2024/monthly/02-february/03-accident/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-feb/challenges/accident"
+        },
+        {
+          "index": 4,
+          "name": "Mystical Matrix Quest",
+          "slug": "mystical-matrix-quest",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2024/monthly/02-february/04-mystical-matrix-quest.md",
+          "url": "/2024/monthly/02-february/04-mystical-matrix-quest/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-feb/challenges/mystical-matrix-quest"
+        },
+        {
+          "index": 5,
+          "name": "Sum Game 4",
+          "slug": "sum-game-4",
+          "max_score": 100,
+          "difficulty": "Easy",
+          "file": "_problems/2024/monthly/02-february/05-sum-game-4.md",
+          "url": "/2024/monthly/02-february/05-sum-game-4/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-feb/challenges/sum-game-4"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "category": "monthly",
+      "round": "March 2024",
+      "contest_slug": "noi-2024-march",
+      "contest_name": "NOI 2024 March Monthly Contest",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-march",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Triotopia",
+          "slug": "triotopia",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2024/monthly/03-march/01-triotopia.md",
+          "url": "/2024/monthly/03-march/01-triotopia/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-march/challenges/triotopia"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "category": "monthly",
+      "round": "April 2024",
+      "contest_slug": "noi-2024-april",
+      "contest_name": "NOI 2024 April Monthly Contest",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-april",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Missile war",
+          "slug": "missile-war",
+          "max_score": 100,
+          "difficulty": "Hard",
+          "file": "_problems/2024/monthly/04-april/01-missile-war.md",
+          "url": "/2024/monthly/04-april/01-missile-war/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-april/challenges/missile-war"
+        },
+        {
+          "index": 2,
+          "name": "Pixel Paint",
+          "slug": "pixel-paint",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2024/monthly/04-april/02-pixel-paint.md",
+          "url": "/2024/monthly/04-april/02-pixel-paint/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-april/challenges/pixel-paint"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "category": "finals",
+      "round": "Final Round \u2014 Day 1",
+      "contest_slug": "noi-2024-day-1",
+      "contest_name": "National Olympiad in Informatics Sri Lanka 2024 - Day 1",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-day-1",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Pebbles 3",
+          "slug": "pebbles-3-1",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2024/finals/day-1/01-pebbles-3-1.md",
+          "url": "/2024/finals/day-1/01-pebbles-3-1/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-day-1/challenges/pebbles-3-1"
+        },
+        {
+          "index": 2,
+          "name": "The Race for the Throne: A Presidential Quest Across Sri Lanka",
+          "slug": "the-race-for-the-throne-a-presidential-quest-across-sri-lanka",
+          "max_score": 100,
+          "difficulty": "Hard",
+          "file": "_problems/2024/finals/day-1/02-the-race-for-the-throne-a-presidential-quest-across-sri-lanka.md",
+          "url": "/2024/finals/day-1/02-the-race-for-the-throne-a-presidential-quest-across-sri-lanka/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-day-1/challenges/the-race-for-the-throne-a-presidential-quest-across-sri-lanka"
+        },
+        {
+          "index": 3,
+          "name": "Floods!",
+          "slug": "floods-in-wonderland",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2024/finals/day-1/03-floods-in-wonderland.md",
+          "url": "/2024/finals/day-1/03-floods-in-wonderland/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-day-1/challenges/floods-in-wonderland"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "category": "finals",
+      "round": "Final Round \u2014 Day 2",
+      "contest_slug": "noi-2024-day-2",
+      "contest_name": "National Olympiad in Informatics Sri Lanka 2024 - Day 2",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-day-2",
+      "problems": [
+        {
+          "index": 1,
+          "name": "central-scroll",
+          "slug": "central-scroll",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2024/finals/day-2/01-central-scroll.md",
+          "url": "/2024/finals/day-2/01-central-scroll/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-day-2/challenges/central-scroll"
+        },
+        {
+          "index": 2,
+          "name": "Tree XOR 1",
+          "slug": "tree-xor-1",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2024/finals/day-2/02-tree-xor-1.md",
+          "url": "/2024/finals/day-2/02-tree-xor-1/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-day-2/challenges/tree-xor-1"
+        },
+        {
+          "index": 3,
+          "name": "Sequence Hunt",
+          "slug": "sequence-hunt-1-1",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2024/finals/day-2/03-sequence-hunt-1-1.md",
+          "url": "/2024/finals/day-2/03-sequence-hunt-1-1/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2024-day-2/challenges/sequence-hunt-1-1"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "category": "qualifier",
+      "round": "Qualifier Round",
+      "contest_slug": "noi-2025-qualifier-round",
+      "contest_name": "NOI 2025 Qualifier Round",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2025-qualifier-round",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Open the chest 1",
+          "slug": "open-the-chest-1-1",
+          "max_score": 100,
+          "difficulty": "Hard",
+          "file": "_problems/2025/qualifier/01-open-the-chest-1-1.md",
+          "url": "/2025/qualifier/01-open-the-chest-1-1/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2025-qualifier-round/challenges/open-the-chest-1-1"
+        },
+        {
+          "index": 2,
+          "name": "Substring query 2",
+          "slug": "substring-query-2",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2025/qualifier/02-substring-query-2.md",
+          "url": "/2025/qualifier/02-substring-query-2/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2025-qualifier-round/challenges/substring-query-2"
+        },
+        {
+          "index": 3,
+          "name": "sum-heh",
+          "slug": "sum-heh",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2025/qualifier/03-sum-heh.md",
+          "url": "/2025/qualifier/03-sum-heh/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2025-qualifier-round/challenges/sum-heh"
+        },
+        {
+          "index": 4,
+          "name": "balanced-bracket-string",
+          "slug": "balanced-bracket-string",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2025/qualifier/04-balanced-bracket-string.md",
+          "url": "/2025/qualifier/04-balanced-bracket-string/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2025-qualifier-round/challenges/balanced-bracket-string"
+        },
+        {
+          "index": 5,
+          "name": "robot-path-collision",
+          "slug": "robot-path-collision",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2025/qualifier/05-robot-path-collision.md",
+          "url": "/2025/qualifier/05-robot-path-collision/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2025-qualifier-round/challenges/robot-path-collision"
+        },
+        {
+          "index": 6,
+          "name": "A-B Good Numbers",
+          "slug": "good-numbers-15-4",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2025/qualifier/06-good-numbers-15-4.md",
+          "url": "/2025/qualifier/06-good-numbers-15-4/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2025-qualifier-round/challenges/good-numbers-15-4"
+        },
+        {
+          "index": 7,
+          "name": "Absolute Rotation",
+          "slug": "absolute-rotation",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2025/qualifier/07-absolute-rotation.md",
+          "url": "/2025/qualifier/07-absolute-rotation/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2025-qualifier-round/challenges/absolute-rotation"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "category": "finals",
+      "round": "Final Round \u2014 Day 1",
+      "contest_slug": "noi-2025-day-1",
+      "contest_name": "National Olympiad in Informatics 2025 day 1",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2025-day-1",
+      "problems": [
+        {
+          "index": 1,
+          "name": "duck-pond",
+          "slug": "duck-pond",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2025/finals/day-1/01-duck-pond.md",
+          "url": "/2025/finals/day-1/01-duck-pond/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2025-day-1/challenges/duck-pond"
+        },
+        {
+          "index": 2,
+          "name": "Exam-stress",
+          "slug": "exam-stress-2",
+          "max_score": 100,
+          "difficulty": "Hard",
+          "file": "_problems/2025/finals/day-1/02-exam-stress-2.md",
+          "url": "/2025/finals/day-1/02-exam-stress-2/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2025-day-1/challenges/exam-stress-2"
+        },
+        {
+          "index": 3,
+          "name": "SLroads",
+          "slug": "slroads",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2025/finals/day-1/03-slroads.md",
+          "url": "/2025/finals/day-1/03-slroads/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2025-day-1/challenges/slroads"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "category": "finals",
+      "round": "Final Round \u2014 Day 2",
+      "contest_slug": "noi-2025-day-2",
+      "contest_name": "National Olympiad in Informatics 2025 day 2",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2025-day-2",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Perfect Power Pairs",
+          "slug": "perfect-power-pairs",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2025/finals/day-2/01-perfect-power-pairs.md",
+          "url": "/2025/finals/day-2/01-perfect-power-pairs/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2025-day-2/challenges/perfect-power-pairs"
+        },
+        {
+          "index": 2,
+          "name": "The Crown Hub",
+          "slug": "the-crown-hub",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2025/finals/day-2/02-the-crown-hub.md",
+          "url": "/2025/finals/day-2/02-the-crown-hub/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2025-day-2/challenges/the-crown-hub"
+        },
+        {
+          "index": 3,
+          "name": "Wizards, Wands, and the Great Tower",
+          "slug": "minimum-strength-to-defeat-all-monsters",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2025/finals/day-2/03-minimum-strength-to-defeat-all-monsters.md",
+          "url": "/2025/finals/day-2/03-minimum-strength-to-defeat-all-monsters/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2025-day-2/challenges/minimum-strength-to-defeat-all-monsters"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "category": "qualifier",
+      "round": "Qualifier Round",
+      "contest_slug": "noi-2026-qualifier-round",
+      "contest_name": "NOI 2026 Qualifier Round",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2026-qualifier-round",
+      "problems": [
+        {
+          "index": 1,
+          "name": "DVD Screensaver",
+          "slug": "dvd-screensaver",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2026/qualifier/01-dvd-screensaver.md",
+          "url": "/2026/qualifier/01-dvd-screensaver/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2026-qualifier-round/challenges/dvd-screensaver"
+        },
+        {
+          "index": 2,
+          "name": "Olinda Keliya",
+          "slug": "olinda-keliya",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2026/qualifier/02-olinda-keliya.md",
+          "url": "/2026/qualifier/02-olinda-keliya/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2026-qualifier-round/challenges/olinda-keliya"
+        },
+        {
+          "index": 3,
+          "name": "Rehan and Checkpoints",
+          "slug": "checkpoint-digit-sum",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2026/qualifier/03-checkpoint-digit-sum.md",
+          "url": "/2026/qualifier/03-checkpoint-digit-sum/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2026-qualifier-round/challenges/checkpoint-digit-sum"
+        },
+        {
+          "index": 4,
+          "name": "Secure Vault",
+          "slug": "secure-vault",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2026/qualifier/04-secure-vault.md",
+          "url": "/2026/qualifier/04-secure-vault/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2026-qualifier-round/challenges/secure-vault"
+        },
+        {
+          "index": 5,
+          "name": "Sensor Calliberation",
+          "slug": "sensor-calliberation",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2026/qualifier/05-sensor-calliberation.md",
+          "url": "/2026/qualifier/05-sensor-calliberation/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2026-qualifier-round/challenges/sensor-calliberation"
+        },
+        {
+          "index": 6,
+          "name": "Petra and Rising Garden",
+          "slug": "the-rising-garden",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2026/qualifier/06-the-rising-garden.md",
+          "url": "/2026/qualifier/06-the-rising-garden/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2026-qualifier-round/challenges/the-rising-garden"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "category": "finals",
+      "round": "Final Round \u2014 Day 1",
+      "contest_slug": "noi-2026-day-1",
+      "contest_name": "NOI 2026 Day 1",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2026-day-1",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Frequency Fusion",
+          "slug": "frequency-fusion",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2026/finals/day-1/01-frequency-fusion.md",
+          "url": "/2026/finals/day-1/01-frequency-fusion/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2026-day-1/challenges/frequency-fusion"
+        },
+        {
+          "index": 2,
+          "name": "The Alchemist\u2019s Sequence",
+          "slug": "the-alchemists-sequence",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2026/finals/day-1/02-the-alchemists-sequence.md",
+          "url": "/2026/finals/day-1/02-the-alchemists-sequence/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2026-day-1/challenges/the-alchemists-sequence"
+        },
+        {
+          "index": 3,
+          "name": "Encryption Grid",
+          "slug": "encryption-grid",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2026/finals/day-1/03-encryption-grid.md",
+          "url": "/2026/finals/day-1/03-encryption-grid/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2026-day-1/challenges/encryption-grid"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "category": "finals",
+      "round": "Final Round \u2014 Day 2",
+      "contest_slug": "noi-2026-day-2",
+      "contest_name": "noi-2026-day-2",
+      "hackerrank_url": "https://www.hackerrank.com/contests/noi-2026-day-2",
+      "problems": [
+        {
+          "index": 1,
+          "name": "Kamal's Village",
+          "slug": "kamals-village",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2026/finals/day-2/01-kamals-village.md",
+          "url": "/2026/finals/day-2/01-kamals-village/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2026-day-2/challenges/kamals-village"
+        },
+        {
+          "index": 2,
+          "name": "DVD Screensaver (Again)",
+          "slug": "dvd-screensaver-again",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2026/finals/day-2/02-dvd-screensaver-again.md",
+          "url": "/2026/finals/day-2/02-dvd-screensaver-again/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2026-day-2/challenges/dvd-screensaver-again"
+        },
+        {
+          "index": 3,
+          "name": "The Cyber Heist",
+          "slug": "the-cyber-heist",
+          "max_score": 100,
+          "difficulty": "Medium",
+          "file": "_problems/2026/finals/day-2/03-the-cyber-heist.md",
+          "url": "/2026/finals/day-2/03-the-cyber-heist/",
+          "hackerrank_url": "https://www.hackerrank.com/contests/noi-2026-day-2/challenges/the-cyber-heist"
+        }
+      ]
+    }
+  ]
+}

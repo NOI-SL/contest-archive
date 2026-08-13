@@ -1,0 +1,36 @@
+title: NOI Sri Lanka — Contest Archive
+description: >-
+  Problem statements from the National Olympiad in Informatics Sri Lanka —
+  final rounds, selection and qualifier rounds, and monthly contests.
+url: https://noi-sl.github.io
+# If you move the site to a custom domain (e.g. archive.noi.lk), set baseurl to ""
+# and put the domain in a CNAME file at the repo root.
+baseurl: /contest-archive
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  # Statements rely on blank lines for paragraphs, not on single newlines.
+  hard_wrap: false
+  # Renders $$...$$ into <script type="math/tex"> tags, which MathJax picks up.
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+collections:
+  problems:
+    output: true
+    # _problems/2022/finals/day-1/01-two-spindles.md  ->  /2022/finals/day-1/01-two-spindles/
+    permalink: /:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: problems
+    values:
+      layout: problem
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
